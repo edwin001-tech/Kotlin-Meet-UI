@@ -1,0 +1,1 @@
+It turns out that every time we add a widget to our UI, we are adding a Kotlin instance of a class that we can access with a reference in our code. All these objects are stored in a separate area of memory called the Heap – along with any instances of classes of our own.
